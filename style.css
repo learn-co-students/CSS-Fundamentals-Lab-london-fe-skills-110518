@@ -3,3 +3,57 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+header {
+  text-align: center;
+
+}
+
+figure {
+     text-align: center;
+}
+
+#featured-property p {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+
+
+}
+
+nav a {
+  padding: 10px;
+  background-color: navy;
+  color:white;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+
+#details {
+ display: block;
+}
+
+#details div {
+  float: left;
+}
+  
+  
+div {
+  background-color: navy;
+  text-align: center;
+  width: 25%;
+  color: white;
+}
+
+div a {
+  color:white;
+}
+
+a:hover {
+  color:blue;
+}
