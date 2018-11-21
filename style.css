@@ -1,5 +1,45 @@
+header { text-align: center }
+
+h1 { text-align: center }
+   
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+  
+#figcap {
+    font-size: 10px; 
+    text-align: center;
+  
+}
+
+#featured-property p {
+    text-align: center;
+    margin: 0 auto;
+    width: 800px
+}
+#details {
+  width: 25%;
+  background-color: purple;
+  text-align: center;
+  
+}
+    
+
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 100;
 }
+
+
+    
+}
+
+/*Styles for the header */
+body { 
+  background: yellow; 
